@@ -1,0 +1,56 @@
+La détection de la fraude concerne le processus de supervision des transactions et du comportement de la clientèle pour identifier et lutter contre les activités frauduleuses.
+
+
+A CHERCHER
+-Les éléments indicatifs de transactions frauduleuses
+-Les différents types de transactions frauduleuses
+-Les algorithmes existants de détections de transactions frauduleuses
+
+
+QUELQUES TYPES DE TRANSACTION CHEZ PAYQIN
+
+* TOP_UP
+* TRANSFER ( I am destination user)
+* REFERRAL_BONUS
+* RETAILER_TOP_UP
+* RETAILER_ACCOUNT_TOP_UP
+* RETAILER_CARD_SALE
+* VOUCHER_TOP_UP
+* PARTNER_TOPUP_REQUEST
+* BANK_DEPOSIT
+* BANK_CARD_TOP_UP
+* PARTNER_MOBILE_MONEY_TRANSFER ( i am destination user)
+* PARTNER_BANK_TRANSFER (I am destination user)
+* CARD_TRANSFER ( I am destination user)
+* SELL_CRYPTO
+* CARD_DELETION
+* BUY_CRYPTO
+* CARD_FUND
+* PHYSICAL_CARD_FUND
+* WITHDRAW
+* TRANSFER ( I am source user)
+* SUBSCRIPTION_PAYMENT
+* CARD_PAYMENT
+* MERCHANT_TRANSACTION
+* CARD_TRANSFER ( I am source user)
+* CARD_WITHDRAW
+* CARD_REPLACEMENT
+* CARD_BALANCE_ADJUSTMENT
+* RETAILER_WITHDRAW
+* RETAILER_ORDER_PAYMENT
+* AIRTIME_TRANSFER
+* MOBILE_MONEY_TRANSFER
+* RETAILER_DEBIT_FOR_TOPUP
+* BILLING_SERVICE_OPERATION
+* BANK_WITHDRAW
+* BANK_TRANSFER
+
+
+METHODOLOGIE D’ETUDE
+-Chercher la définition des transactions frauduleuses en général et dans les fintech en particulier
+-Typologie des transactions frauduleuses
+-Les éléments caractéristiques des transactions frauduleuses de manière générale
+-Etudier les données de PayQin et faire ressortir les éléments caractéristiques des transactions frauduleuses chez PayQin en particulier
+-Chercher les définitions(dans les détails) de l’IA, du ML et des big data; leurs potentiels apports dans la détection des transactions frauduleuses
+-Modèles de détection de transactions frauduleuses existants: bien comprendre ces modèles afin de faire ressortir les forces et les faiblesses de ces modèles
+-Amélioration de ces modèles dans un modèle central.
